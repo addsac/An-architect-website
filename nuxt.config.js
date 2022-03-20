@@ -55,8 +55,8 @@ export default {
     activeEnvironments: ['master'],
     environments: {
       master: {
-        space: 'vuhsz6w275ib',
-        accessToken: 'VP0wvGZrFkY3lidvINd2gUwHl37PJKb4fQq6OUeckOk',
+        space: process.env.SPACE,
+        accessToken: process.env.ACCESS_TOKEN,
         environment: 'master'
       }
     }
