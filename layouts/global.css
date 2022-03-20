@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'SweetSansProHeavy';
+  src: url('static/font/SweetSansProHeavy.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansProBold';
+  src: url('static/font/SweetSansProBold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansProMedium';
+  src: url('static/font/SweetSansProMedium.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansPro';
+  src: url('static/font/SweetSansProRegular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansProLight';
+  src: url('static/font/SweetSansProLight.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansProExLight';
+  src: url('static/font/SweetSansProExLight.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SweetSansProThin';
+  src: url('static/font/SweetSansProThin.otf') format('truetype');
+}
+
+.font-sweet-heavy {
+  font-family: 'SweetSansProHeavy';
+  font-display: swap;
+}
+
+.font-sweet-bold {
+  font-family: 'SweetSansProBold';
+  font-display: swap;
+}
+
+.font-sweet-medium {
+  font-family: 'SweetSansProMedium';
+  font-display: swap;
+}
+
+.font-sweet {
+  font-family: 'SweetSansPro';
+  font-display: swap;
+}
+
+.font-sweet-light {
+  font-family: 'SweetSansProLight';
+  font-display: swap;
+}
+
+.font-sweet-ex-light {
+  font-family: 'SweetSansProExLight';
+  font-display: swap;
+}
+
+.font-sweet-thin {
+  font-family: 'SweetSansProThin';
+  font-display: swap;
+}
