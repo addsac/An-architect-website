@@ -8,7 +8,7 @@
         @mouseleave="animateProject(i, 'leave')"
         class="col-span-6 hover:underline"
       >
-        <NuxtLink to="/progetti/serp-&-molot">
+        <a href="#">
           <!-- Photo -->
           <div
             class="bg-black relative flex items-center justify-center"
@@ -35,7 +35,7 @@
           </h2>
           <!-- Place -->
           <p class="text-lg font-sweet-light mt-1">Moscow, Russia</p>
-        </NuxtLink>
+        </a>
       </div>
     </div>
   </div>

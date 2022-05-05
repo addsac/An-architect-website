@@ -1,5 +1,5 @@
 <template>
-    <div class="custom-cursor h-5 w-5 bg-yellow-400 rounded-full z-50">
+    <div class="hidden md:block custom-cursor h-5 w-5 bg-yellow-400 rounded-full z-50">
       <p id="cursor-text" class="font-sweet"
        style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 4px !important"> 
        Vedi
